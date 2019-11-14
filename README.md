@@ -3,4 +3,4 @@
 ouais ben espace sous espace vectoriel ok fin presque ouais non enfete, kmean j'ai compris mais j'ai pas compris quand est -ce qu'on sarrete
 et aussi le truk des triangles ok mais voila 
 
-faut toujours de l'ia pfffff tout mes trucks servent a rien mais pas grave
+faut toujours de l'ia pfffff tout mes trucks servent a rien mais pas grave faut transformer le papillon en 3d !
