@@ -13,3 +13,5 @@ soit les coller
 soit dans matplotlib
 
 il faut la meme animation que matplolib 3d
+
+du genre rajouter une cape ou une épée si on veut
