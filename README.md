@@ -2,7 +2,9 @@
 
 prendre les contours extérieurs
 
-en faire des bandes selon la forme
+en faire des bandes selon la forme 
+
+les mettre en couleur
 
 refaire a l'identique l'arriere en inversé
 
